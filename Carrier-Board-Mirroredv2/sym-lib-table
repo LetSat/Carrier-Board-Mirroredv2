@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Carrier-Board-rescue)(type Legacy)(uri ${KIPRJMOD}/Carrier-Board-rescue.lib)(options "")(descr ""))
+  (lib (name SI-51009-F)(type Legacy)(uri ${KIPRJMOD}/SI-51009-F.lib)(options "")(descr ""))
+)
